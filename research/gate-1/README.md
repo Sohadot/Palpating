@@ -5,8 +5,10 @@
 `CLAIMS_GOVERNANCE.md`.
 
 > **Gate 1 closes only when the category survives both positive evidence *and*
-> adjacent-category falsification.** Pass 2 result: it survives **only in its narrow
-> form** — see `pass-2-falsification.md`.
+> adjacent-category falsification.** Pass 2 narrowed the **atomic-property layer**;
+> Pass 2.1 corrects the interpretation — the **category** is not limited to intrinsic
+> tissue mechanics. Gate 1 closes by **reclassification and boundary definition**,
+> not by deleting every concept that is not an intrinsic material property.
 
 Gate 1 is **research before classification**. Its purpose is to test, against the
 literature, whether **Physical-Sign Intelligence** is a defensible category and to
@@ -73,17 +75,28 @@ Every property is examined across these axes (the columns of the evidence matrix
 ## Result so far
 
 Pass 1 established a well-evidenced landscape. Pass 2 attacked it and found the
-category **defensible only when narrowed**: elasticity/modulus, structural
-stiffness, deformation/strain, superficial viscoelastic tone, and surface
-roughness survive; mobility/ROM, contact pressure, resistance, and asymmetry are
-excluded from the atomic layer. The unique, unclaimed position is a
-**representation-integrity governance layer** over which intrinsic body properties
-can be faithfully represented and where the representation breaks.
+**atomic-property layer is narrow** (elasticity/modulus, structural stiffness,
+deformation/strain, superficial viscoelastic tone, surface roughness). **Pass 2.1
+corrects the interpretation:** narrowing the atomic layer did **not** shrink the
+Palpating category. Concepts that are not atomic properties — pressure, resistance,
+asymmetry, mobility, texture — remain inside Palpating in other governed roles
+(interaction-derived sign, response relation, comparative sign, functional/kinematic
+expression, decomposable umbrella) **provided defensible physical provenance
+exists**. The asset governs the chain *physical meaning → provenance → elicitation/
+sensing → representation → interpretation → representation gap*, which belongs to the
+verb *palpating* itself.
 
 ## Pass 3 (before Gate 1 can close)
 
-Resolve clinical "texture" vs roughness; primary source on intrinsic vs
-interaction-induced pressure; test for a genuine dynamic-response property; settle
-the modulus↔stiffness representation; consider elevating the Observed Cross-Modal
-Constraint after broader metrology review; promote admitted evidence objects into
+Pass 3 asks **which forms of bodily physical meaning legitimately belong to
+Palpating, and under what provenance** — not "what do we delete." It tests three
+things: (1) the **provenance architecture** (State / Response / Interaction-derived /
+Dynamic / Relational / Functional / Model-inferred — defensible or needs reshaping?);
+(2) **reclassification** of pressure, resistance, asymmetry, mobility, texture, tone
+by provenance (not binary include/exclude); (3) the **boundary** against biomechanics,
+wearables, haptics, digital biomarkers, elastography — Palpating owns the layer that
+binds physical meaning to its provenance, elicitation, representation and limits, not
+those fields themselves. Also: decompose texture; primary source on intrinsic vs
+interaction-derived pressure; separate tissue strain from motion-proxy deformation;
+settle the modulus↔stiffness representation; promote admitted evidence objects into
 `SOURCE_REGISTER.md`. **No Gate 2 governance until Pass 3 closes Gate 1.**

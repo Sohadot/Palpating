@@ -13,7 +13,93 @@ evidence** — so Digital Palpability is never turned into a back-door score
 
 ---
 
+## Interpretive Correction — Pass 2.1
+
+> **This section supersedes the interpretation (not the evidence) of Part A and
+> Part B below.** Pass 2's evidence stands; its *conclusion language* was too
+> strong. Binding for the remainder of Gate 1 (`DECISION_LOG.md` DEC-014).
+
+**The error being corrected.** Pass 2 slid from a correct finding — *"X is not an
+atomic property"* — to an unwarranted one — *"therefore X is outside Palpating."*
+That conflation quietly shrank the whole category to *intrinsic tissue mechanics*.
+It is wrong on the asset's own terms.
+
+**Two governing principles (binding for the rest of Gate 1):**
+
+1. **Atomic exclusion ≠ category exclusion.** *Pass 2 narrowed the atomic-property
+   layer; it did not establish that the Palpating category must be limited to
+   intrinsic tissue properties.* A concept rejected as an atomic property may still
+   belong to Palpating in another governed role — a response, an interaction-derived
+   sign, a dynamic expression, a comparative sign, a functional expression, or a
+   model-inferred representation — **if defensible physical provenance exists.**
+2. **Exclusion requires absence of provenance, not mere derivedness.** *A concept is
+   excluded from Palpating only when no defensible physical provenance can be
+   established — not merely because it is derived, interaction-dependent,
+   comparative, or dynamic.*
+
+**Why.** Palpating is not the dictionary act "examine by touch." It is the deeper
+logic inside the verb: **the conceptual act of making physical meaning legible
+through interaction.** Touch is the *model*, not the object. The asset therefore
+governs the different *ways* physical meaning arises, is elicited, sensed, derived,
+represented, and bounded — a chain no adjacent field owns:
+
+> **Physical meaning → Provenance → Elicitation / Sensing → Representation →
+> Interpretation → Representation Gap.**
+
+This is stronger than "property → sensor," and it belongs to the word *palpating*
+itself — it was not bolted onto the domain.
+
+### Physical Meaning Provenance — candidate modes (UNAPPROVED, for Pass 3)
+
+Every concept in Palpating must answer *"where does this physical meaning come
+from?"* These candidate provenance modes are the Pass-3 test object — **not an
+approved ontology:**
+
+| Mode | Meaning |
+|------|---------|
+| **State / material property** | what exists or is characterisable in the body |
+| **Structural or elicited response** | what appears under force / loading / deformation |
+| **Interaction-derived sign** | what arises from controlled contact or action with the body |
+| **Dynamic expression** | what becomes meaningful only over time / through changing response |
+| **Relational / comparative sign** | what is extracted by comparing sites, times, or states |
+| **Functional / kinematic expression** | what shows in movement/function but is *not* a tissue property |
+| **Model-inferred representation** | what is not measured directly but reconstructed from a model / inverse problem |
+
+### Reinterpretation of the Part A adjudications
+
+The words "drop" / "excluded" in Part A mean **out of the atomic-property layer**,
+unless a concept has *no* defensible provenance at all:
+
+| Concept | Pass 2.1 reading |
+|---------|------------------|
+| Elastic modulus | **state / material property** candidate |
+| Structural stiffness | **structural-response** candidate (distinct from, related to, modulus) |
+| Deformation / strain | **response / state** candidate — Pass 3 must separate *tissue* strain from *motion-proxy* sensor deformation |
+| Tone | clinically overloaded term under falsification; the **underlying mechanical response** may survive |
+| Pressure | not an atomic intrinsic property; **interaction-derived sign** candidate (vs device artifact) |
+| Resistance | not atomic; **response relation** |
+| Asymmetry | not atomic; **comparative / derived sign** |
+| Mobility / ROM | not an atomic tissue property; **functional / kinematic expression** candidate (kept only where it carries clear physical meaning) |
+| Texture | umbrella term; **decompose** into surface / tactile / structural manifestations — not deleted |
+| Dynamic response | candidate **mode** of physical meaning, not necessarily a separate property |
+
+**Master framing preserved (not narrowed):**
+> Physical-Sign Intelligence concerns **how bodily physical meaning can be sensed,
+> elicited, derived, represented and bounded computationally** — not "intrinsic
+> tissue mechanics."
+> **Palpating is the conceptual act of making physical meaning legible through
+> interaction.**
+> **From vital signs to physical signs** remains the master framing.
+
+Pass 2 and DEC-013 are **not** rewritten — they remain the record of what the
+falsification discovered. DEC-014 corrects their *interpretation*. This is better
+governance than deleting history.
+
+---
+
 ## Part A — Property adjudications
+*(Read the verdicts below through the Pass 2.1 lens above: "excluded/dropped" =
+"out of the atomic-property layer," pending Pass 3 provenance reclassification.)*
 
 ### 1. Stiffness ≠ elasticity (distinct; related, not synonymous)
 **Finding.** Elasticity/elastic modulus is an **intensive material** property (the

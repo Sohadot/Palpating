@@ -5,9 +5,11 @@ UNAPPROVED.** This matrix is research output; it does not constitute a Gate 2
 ontology.
 
 > **Superseded groupings:** `pass-2-falsification.md` splits stiffness from
-> elasticity, narrows tone, and **excludes** mobility, contact pressure,
-> resistance, and asymmetry from the atomic-property layer. Read this matrix as the
-> Pass 1 landscape; **Part D of Pass 2 is the current candidate structure.**
+> elasticity, narrows tone, and moves mobility, contact pressure, resistance, and
+> asymmetry **out of the atomic-property layer** — not out of Palpating (see the
+> **Pass 2.1 Interpretive Correction**: excluded-from-atomic ≠ excluded-from-category;
+> each becomes a candidate provenance role for Pass 3). Read this matrix as the Pass
+> 1 landscape, reinterpreted by Pass 2.1.
 
 **Methodological correction (applied):** the rightmost column is **Evidence
 status**, not a "Digital-Palpability strength" — measuring *evidence*, not a score
@@ -25,12 +27,12 @@ an undeclared metric (`DECISION_LOG.md` DEC-002).
 |---|---|---|---|---|---|
 | **Stiffness / elasticity** *(split in Pass 2)* | SWE (E-01, E-02); MRE (E-03, S-005); robotic palpation / indentation (E-06, E-07, S-001); tactile (E-04) | scalar velocity/kPa; whole-organ elastogram map; elasticity coefficient | point → whole-organ field; static; in-vivo (SWE/MRE) and phantom (tactile) | operator/probe-force dependence (~1.5 N shifts repeatability, E-02); loading/motion bias (E-03); **ill-posed inverse problem, non-unique, assumption-laden** (E-16); model dependence (E-07) | **[E]** established (assumption-bounded) — but **modulus ≠ stiffness**; split into two entries + edge |
 | **Deformation / strain** | wearable strain sensing (E-08); skin-like sensors (E-09); wearable mechanical (S-002) | resistance/capacitance change → strain; waveform | surface, localized; dynamic, real-time | limited strain range/sensitivity; motion-specific; placement-dependent (E-08) | **[E]** established |
-| **Mobility / range of motion** | IMU (E-13, E-14, E-23) | joint angle (deg); kinematic time series | joint-level; dynamic | rotations unreliable; inter-rater moderate-poor (E-14); **it is kinematics, owned by biomechanics/digital biomarkers** (E-20, E-23) | **[I] as a physical sign** — out of scope; [E] only *as kinematics* (Pass 2 #3) |
+| **Mobility / range of motion** | IMU (E-13, E-14, E-23) | joint angle (deg); kinematic time series | joint-level; dynamic | rotations unreliable; inter-rater moderate-poor (E-14); kinematics also owned by biomechanics/digital biomarkers (E-20, E-23) | **out of atomic layer; candidate functional/kinematic expression** (Pass 2.1) |
 | **Tone / tension** *(narrowed in Pass 2)* | myotonometry (E-11, E-12, E-18) | oscillation waveform → viscoelastic params | superficial muscle; quasi-static | lab-bound; superficial only; **tone ≠ tension** (E-17); active force not captured (E-18) | **[B]** for *superficial passive viscoelastic tone*; "tension" **dropped** |
-| **Pressure** | skin-like pressure sensing (E-09); wearable mechanical (S-002) | pressure signal (kPa/mbar) | contact surface; dynamic | **interaction-induced at the sensor interface, not an intrinsic property** (Pass 2 #4) | **[I] as an intrinsic sign** — generic contact pressure excluded |
+| **Pressure** | skin-like pressure sensing (E-09); wearable mechanical (S-002) | pressure signal (kPa/mbar) | contact surface; dynamic | interaction-induced at the sensor interface, not an intrinsic property (Pass 2 #4) | **out of atomic layer; candidate interaction-derived sign** (Pass 2.1) — distinguish from device artifact |
 | **Texture / surface state** *(narrowed in Pass 2)* | tactile imaging (E-05); tactile sensing (E-04); roughness metrology (E-21, E-22) | tactile image → size/depth/modulus; roughness Ra/Rq/Rz | localized; phantom (imaging) / micro-scale (roughness) | Ra alone insufficient (E-21); clinical "texture" ≠ roughness (E-22) | **[B]** for *surface micro-geometry/roughness*; **[I]** for clinical "texture" |
-| **Resistance** | (definition of stiffness / tone, E-15, E-17) | — | — | "resistance to deformation" = stiffness; "resistance to stretch" = tone | **relation, not atomic** — dropped (Pass 2 #6) |
-| **Asymmetry** | (bilateral/temporal comparison of other properties) | derived differential | region/whole-body | no evidence as an atomic sign | **operator, not property** — kept outside atomic layer (Pass 2 #7) |
+| **Resistance** | (definition of stiffness / tone, E-15, E-17) | — | — | "resistance to deformation" = stiffness; "resistance to stretch" = tone | **out of atomic layer; response relation** (retained, Pass 2.1) |
+| **Asymmetry** | (bilateral/temporal comparison of other properties) | derived differential | region/whole-body | no evidence as an atomic sign | **out of atomic layer; candidate comparative/derived sign** (Pass 2.1) |
 
 ---
 

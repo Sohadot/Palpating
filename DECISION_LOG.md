@@ -208,3 +208,45 @@ Primary/theoretical and adjacent-category evidence objects `E-15…E-23` added.
 a possible dynamic-response property, the modulus↔stiffness representation, and source
 promotion before any Gate 2 governance. No ontology/standard/protocol/engine/SEO
 approved in this pass.
+
+## DEC-014 — Atomic exclusion does not equal category exclusion (Pass 2.1 interpretive correction)
+**Status:** Binding for the remainder of Gate 1. Corrects the *interpretation* of
+DEC-013; **DEC-013 is not rewritten** (it remains the record of what Pass 2 found).
+
+Pass 2 correctly showed that several concepts are **not atomic properties**, then
+over-reached by treating "not atomic" as "outside Palpating," implicitly shrinking the
+category to intrinsic tissue mechanics. Pass 2.1
+(`research/gate-1/pass-2-falsification.md`) corrects this. Binding principles:
+
+1. **Atomic exclusion ≠ category exclusion.** Pass 2 narrowed the *atomic-property
+   layer*; it did not establish that the Palpating category is limited to intrinsic
+   tissue properties. A concept rejected as an atomic property may still belong to
+   Palpating as a response, interaction-derived sign, dynamic expression, comparative
+   sign, functional expression, or model-inferred representation — **if defensible
+   physical provenance exists.**
+2. **Exclusion requires absence of provenance.** A concept is excluded from Palpating
+   only when *no defensible physical provenance* can be established — not merely
+   because it is derived, interaction-dependent, comparative, or dynamic.
+
+**Governing framing (preserved, not narrowed):** Palpating is *the conceptual act of
+making physical meaning legible through interaction*; Physical-Sign Intelligence
+concerns *how bodily physical meaning can be sensed, elicited, derived, represented and
+bounded computationally* — not "intrinsic tissue mechanics." "From vital signs to
+physical signs" remains the master framing. The governed chain is *physical meaning →
+provenance → elicitation/sensing → representation → interpretation → representation gap*.
+
+**Introduced as UNAPPROVED Pass-3 candidates — Physical Meaning Provenance modes:**
+state/material property · structural or elicited response · interaction-derived sign ·
+dynamic expression · relational/comparative sign · functional/kinematic expression ·
+model-inferred representation.
+
+**Reinterpretation of the Pass 2 adjudications:** pressure = candidate
+interaction-derived sign (not atomic intrinsic property); resistance = response
+relation; asymmetry = comparative/derived sign; mobility/ROM = functional/kinematic
+expression (not atomic tissue property); texture = umbrella to decompose; tone =
+overloaded term, underlying mechanical response still under falsification;
+stiffness/modulus remain distinct-and-related; strain/deformation remain candidates but
+Pass 3 must separate tissue strain from motion-proxy sensor deformation.
+
+Gate 1 will close by **reclassification and boundary definition**, not by deleting every
+non-intrinsic concept. No ontology/standard/protocol/engine/SEO approved.
