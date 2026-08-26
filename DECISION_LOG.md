@@ -128,3 +128,40 @@ revealing). Decision: remove it and replace with a discreet Owner / Contact refe
 This is the single live interface change Gate 0 authorises; all other interface work is
 deferred to the Gate 3 design-system rebuild. Tracked in `ACQUISITION_READINESS.md` §2 and
 `ASSET_INTELLIGENCE_FACTORY_PLAN.md` §11.
+
+---
+
+# GATE 1 — Scientific Literature Research
+
+## DEC-012 — Gate 1 commenced: research before classification (Pass 1)
+**Status:** In progress — research only; **nothing approved**
+
+Gate 1 begins as literature research to test category defensibility and the limits
+of Digital Palpability, per the governing sequence **literature → evidence objects →
+candidate classes → falsification → Gate 2**. Deliverable is a governed evidence
+matrix across five axes (physical/mechanical property, sensing modality, digital
+representation, spatial/temporal context, limitations/uncertainty), under
+`research/gate-1/`.
+
+No ontology class, standard dimension, protocol mapping, engine, SEO page, or
+interface change is approved or made in this gate (interface is untouched beyond the
+already-executed DEC-011). Binding boundary reaffirmed: no Gate 2 governance until
+falsification completes against a deeper corpus.
+
+**Pass 1 preliminary findings (UNAPPROVED, recorded for continuity):**
+- Category "Physical-Sign Intelligence" is *provisionally defensible*: a real,
+  converging technical substrate exists for a core of properties
+  (stiffness/elasticity, deformation/strain, mobility, tone) — independent
+  modalities, quantitative representations, some in clinical use. The *unifying
+  claim* remains Palpating's conceptual interpretation, not established science.
+- Universal limit of Digital Palpability: every representation is a **bounded proxy
+  under stated assumptions**, never the property itself — validating the
+  Representation Gap and a representation-integrity (not health) standard.
+- Candidate property survival for Gate 2: likely-admit stiffness/elasticity,
+  deformation/strain, mobility, tone; narrow-scope pressure and texture;
+  merge/drop candidates resistance (→ stiffness) and asymmetry (→ derived
+  comparison). All subject to Gate 2 falsification.
+
+Evidence objects `E-01…E-14` gathered (with mandatory does-not-support boundaries);
+promotion into `SOURCE_REGISTER.md` deferred to a governance pass. Existing
+`S-001…S-005` remain valid.
