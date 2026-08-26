@@ -35,3 +35,32 @@ Palpating.com will not claim diagnosis, treatment, validated scoring, healthspan
 **Status:** Binding
 
 The interface must visualize physical state becoming signal and representation. Decorative medical imagery, generic SaaS dashboards, stock doctors, and robot illustrations are out of scope unless they later become necessary evidence-bearing media.
+
+## DEC-006 — Visual identity: mineral / editorial, light-first
+**Status:** Binding
+**Version:** v0.2
+
+The interface moves off the black + neon-green ("signal-tech") palette, which read as
+cyber / AI-lab / crypto-tech and undercut the research-grade positioning.
+
+The visual system is now **light-first, mineral and editorial** — a tactile intelligence
+atlas rather than a dark signal lab:
+
+- **Base neutrals:** bone white `#f3f0ea`, stone paper `#e6e1d8`, deep mineral ink `#1a2026`.
+- **Accents:** muted surgical blue `#8ea3b0` / deep surgical `#46606f` (links, signal),
+  dust teal `#7e9995` (tactile touches), warm tissue beige `#cbbeae` (physical-body layer),
+  mineral plum `#726a86` (reserved, rare).
+- **Colour carries meaning:** vital signs read cool (deep mineral panel); physical signs
+  read warm (tissue beige). Measured physiology vs. embodied properties.
+- **Dark is the exception, not the ground:** only the Evidence panel stays dark, as a
+  deliberate reference/analytical moment.
+- **Acquisition is restrained:** bone background, dark typography, a thin rule and a quiet
+  acquire button — acquisition prestige, not a CTA punch.
+
+## DEC-007 — Social sharing (Open Graph) asset
+**Status:** Binding
+**Version:** v0.2
+
+The link must carry the identity when shared. A purpose-built `og-image.png` (1200×630),
+designed in the mineral/editorial system (not a page screenshot), ships with the site, and
+`og:*` / `twitter:card` tags are present on the home page and both sub-pages.
