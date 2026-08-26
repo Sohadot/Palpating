@@ -23,8 +23,28 @@ No scoring ladder. No invented standard. No acronym-based ontology. No diagnosti
 
 The interface itself should embody the thesis: physical state → signal → computational representation.
 
+## Status
+
+The site currently live is **Palpating v0.1 — Thesis Demonstrator**: it discovered and
+states the thesis, but it is not yet the sovereign asset. Palpating is being built to
+**Category Intelligence Factory** grade under the Sovereign Asset System, by gates. See
+`ASSET_THESIS.md` (supreme) and the Gate 0 foundation below.
+
 ## Repository
 
 Static-first, dependency-free HTML/CSS/JS. GitHub is the source of truth.
 
-See `DECISION_LOG.md`, `CLAIMS_BOUNDARY.md`, and `SOURCE_REGISTER.md` for governance.
+### Governance — Sovereign Foundation (Gate 0)
+
+Supreme: `ASSET_THESIS.md`. Factory plan: `ASSET_INTELLIGENCE_FACTORY_PLAN.md`.
+
+- Language & classification: `CATEGORY_LANGUAGE.md`, `CLASSIFICATION_ARCHITECTURE.md`
+- Reference & evidence: `REFERENCE_LAYER_POLICY.md`, `SOURCE_GOVERNANCE.md` (over
+  `SOURCE_REGISTER.md`), `CLAIMS_GOVERNANCE.md` (over `CLAIMS_BOUNDARY.md`)
+- Publication & discovery: `PUBLICATION_STANDARD.md`, `SEO_AND_INTERNAL_LINK_GOVERNANCE.md`
+- Interface & design: `INTERFACE_THESIS.md`, `DESIGN_SYSTEM_GOVERNANCE.md`
+- Value: `MONETIZATION_DOCTRINE.md`, `BUYER_LOGIC.md`, `ACQUISITION_READINESS.md`
+- Continuity: `MEASUREMENT_AND_ARCHIVAL.md`, append-only `DECISION_LOG.md`
+
+Bound by the Sovereign Asset System (`Sohadot/sovereign-asset-system`): this asset may be
+stricter than the methodology, never looser.

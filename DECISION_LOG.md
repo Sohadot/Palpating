@@ -64,3 +64,67 @@ atlas rather than a dark signal lab:
 The link must carry the identity when shared. A purpose-built `og-image.png` (1200×630),
 designed in the mineral/editorial system (not a page screenshot), ships with the site, and
 `og:*` / `twitter:card` tags are present on the home page and both sub-pages.
+
+---
+
+# GATE 0 — Sovereign Foundation
+
+## DEC-008 — Reclassify the current site; build the asset, not the page
+**Status:** Binding
+**Version:** v0.2 → v0.x (foundation)
+
+The site live at `palpating.com` is reclassified as **Palpating v0.1 — Thesis
+Demonstrator**. It succeeded at discovering and stating the thesis, but measured against
+the Category Artifact Standard it lacks the real moat (no governed classification, no
+standard, no protocol, no engine, no governed reference layer, no measured adoption).
+
+Decision: stop treating colour / hero as the problem. Do not patch v0.1 cosmetically. Use
+it as a discovery artifact and build the correct sovereign system *over* it, gated. See
+`ASSET_THESIS.md` §3.
+
+## DEC-009 — Bind to the Sovereign Asset System; Tier 1; adopt Gate 0 document set
+**Status:** Binding
+
+Palpating is declared a **Tier 1** asset under the Sovereign Asset System
+(`Sohadot/sovereign-asset-system`) and binds to its `FOUNDATION_DOCTRINE.md`: it inherits
+the ten Non-Negotiables (instantiated in `PUBLICATION_STANDARD.md`), may be stricter but
+never looser, and resolves conflicts toward the stricter rule with a logged decision.
+
+Gate 0 fixes the foundation. This decision adopts the following governing documents:
+`ASSET_THESIS.md` (supreme), `ASSET_INTELLIGENCE_FACTORY_PLAN.md`, `CATEGORY_LANGUAGE.md`,
+`CLASSIFICATION_ARCHITECTURE.md`, `REFERENCE_LAYER_POLICY.md`, `CLAIMS_GOVERNANCE.md`,
+`SOURCE_GOVERNANCE.md`, `PUBLICATION_STANDARD.md`, `SEO_AND_INTERNAL_LINK_GOVERNANCE.md`,
+`INTERFACE_THESIS.md`, `DESIGN_SYSTEM_GOVERNANCE.md`, `MONETIZATION_DOCTRINE.md`,
+`BUYER_LOGIC.md`, `ACQUISITION_READINESS.md`, `MEASUREMENT_AND_ARCHIVAL.md`. The prior
+`CLAIMS_BOUNDARY.md` and `SOURCE_REGISTER.md` are retained as the concrete instances the
+governance documents sit over.
+
+## DEC-010 — Category and factory layers named; taxonomy content UNAPPROVED
+**Status:** Binding (names); taxonomy/standard/protocol **content unapproved**
+
+- Category owned: **Physical-Sign Intelligence**.
+- Ontology: **Physical Sign Map** (physical property × sensing modality × representation ×
+  evidence × limits).
+- Standard: **Physical-State Representation Integrity** — governs representation integrity,
+  **not** human health (a deliberate claims firewall).
+- Protocol: **Physical Sign Legibility Protocol** (deterministic; never emits a diagnosis).
+- Engine: **Digital Palpability Mapper** (static, rules-based; outputs resolve to reference
+  pages).
+
+Binding discipline: all ontology classes, standard dimensions, and protocol mappings are
+**candidate / unapproved** and are admitted only after Gate 1 (literature) and Gate 2
+(falsification), via the entry criteria in `CLASSIFICATION_ARCHITECTURE.md`. Reaffirms and
+extends DEC-002 (no ladder), DEC-003 (no acronym ontology), DEC-004 (claims restraint):
+literature → candidate classes → falsification → governed taxonomy. No invented taxonomy
+justified after the fact.
+
+## DEC-011 — Remove acquisition-urgency framing from the live interface
+**Status:** Binding — **authorised, pending execution**
+
+The v0.1 interface carries an `#acquisition` section, an "Acquisition inquiry" button, and
+an "Acquisition" nav item. This is marketplace / acquisition-urgency framing on an asset
+surface, violating Non-Negotiable #10 (No desperation) and Buyer Logic Rule 2 (Build before
+revealing). Decision: remove it and replace with a discreet Owner / Contact reference only.
+This is the single live interface change Gate 0 authorises; all other interface work is
+deferred to the Gate 3 design-system rebuild. Tracked in `ACQUISITION_READINESS.md` §2 and
+`ASSET_INTELLIGENCE_FACTORY_PLAN.md` §11.
