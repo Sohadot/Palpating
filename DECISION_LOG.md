@@ -119,7 +119,7 @@ literature → candidate classes → falsification → governed taxonomy. No inv
 justified after the fact.
 
 ## DEC-011 — Remove acquisition-urgency framing from the live interface
-**Status:** Binding — **authorised, pending execution**
+**Status:** Binding — **executed** (forward commit; no history rewrite)
 
 The v0.1 interface carries an `#acquisition` section, an "Acquisition inquiry" button, and
 an "Acquisition" nav item. This is marketplace / acquisition-urgency framing on an asset
