@@ -1,8 +1,8 @@
 # Gate 1 — Scientific Literature Research
 
-**Status:** Pass 2 complete (adversarial falsification); Gate 1 **not yet closed**
-(Pass 3 pending). **Governed by:** `ASSET_THESIS.md` §4–5, `SOURCE_GOVERNANCE.md`,
-`CLAIMS_GOVERNANCE.md`.
+**Status:** Pass 3 complete (provenance & boundary). **Gate 1 closure RECOMMENDED —
+pending user ratification** (a gate transition is not made unilaterally).
+**Governed by:** `ASSET_THESIS.md` §4–5, `SOURCE_GOVERNANCE.md`, `CLAIMS_GOVERNANCE.md`.
 
 > **Gate 1 closes only when the category survives both positive evidence *and*
 > adjacent-category falsification.** Pass 2 narrowed the **atomic-property layer**;
@@ -68,9 +68,13 @@ Every property is examined across these axes (the columns of the evidence matrix
 - `evidence-matrix.md` — the matrix (Pass 1, **revised by Pass 2**): property ×
   modality × representation × context × limitations, with **Evidence status** (not a
   score) per property.
-- `pass-2-falsification.md` — the adversarial pass: per-property adjudications,
-  the adjacent-category **uniqueness test**, the reframed cross-modal constraint,
-  and the **revised candidate structure** (UNAPPROVED).
+- `pass-2-falsification.md` — the adversarial pass (with the **Pass 2.1**
+  interpretive correction at its top): per-property adjudications, the
+  adjacent-category **uniqueness test**, the reframed cross-modal constraint.
+- `pass-3-provenance.md` — the **Physical Meaning Provenance** architecture (2-axis:
+  Nature × Access), the full reclassification of every concept by provenance, the
+  **boundary definition** and inclusion/exclusion rule, and the **Gate 1 closure
+  recommendation** (UNAPPROVED input to Gate 2).
 
 ## Result so far
 
@@ -86,17 +90,24 @@ exists**. The asset governs the chain *physical meaning → provenance → elici
 sensing → representation → interpretation → representation gap*, which belongs to the
 verb *palpating* itself.
 
-## Pass 3 (before Gate 1 can close)
+## Pass 3 result
 
-Pass 3 asks **which forms of bodily physical meaning legitimately belong to
-Palpating, and under what provenance** — not "what do we delete." It tests three
-things: (1) the **provenance architecture** (State / Response / Interaction-derived /
-Dynamic / Relational / Functional / Model-inferred — defensible or needs reshaping?);
-(2) **reclassification** of pressure, resistance, asymmetry, mobility, texture, tone
-by provenance (not binary include/exclude); (3) the **boundary** against biomechanics,
-wearables, haptics, digital biomarkers, elastography — Palpating owns the layer that
-binds physical meaning to its provenance, elicitation, representation and limits, not
-those fields themselves. Also: decompose texture; primary source on intrinsic vs
-interaction-derived pressure; separate tissue strain from motion-proxy deformation;
-settle the modulus↔stiffness representation; promote admitted evidence objects into
-`SOURCE_REGISTER.md`. **No Gate 2 governance until Pass 3 closes Gate 1.**
+Pass 3 answered the governing question. Key outcomes:
+- The seven proposed provenance modes were found to **conflate two axes** and were
+  reshaped into a **2-axis model: Nature (State / Response / Dynamic / Relational /
+  Functional) × Access (Direct / Elicited / Model-inferred / Comparative-derived)**,
+  each concept carrying a mandatory **Representation Gap**.
+- **Every concept was reclassified, none deleted:** "texture" and "pressure" proved
+  to be **multi-provenance** (texture → surface roughness / tactile-inclusion /
+  internal-heterogeneity; pressure → intrinsic IOP-type state vs contact-interface),
+  each cell individually defensible.
+- **Boundary defined:** Palpating owns the *binding layer* (provenance →
+  representation → gap), not biomechanics/wearables/haptics/digital-biomarkers/
+  elastography. Inclusion needs defensible provenance; exclusion means **no**
+  provenance (device artifact, or pure performance with no physical binding).
+- **Gate 1 closure recommended**, pending user ratification.
+
+**Genuinely open (for Gate 2):** operational test for the "Functional" boundary;
+whether "Dynamic" is a distinct Nature; whether "Access" is an ontology axis or
+Protocol metadata; promotion of evidence objects into `SOURCE_REGISTER.md`.
+**No Gate 2 governance begins until the user ratifies Gate 1 closure.**

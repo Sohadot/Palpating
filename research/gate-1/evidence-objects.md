@@ -225,3 +225,30 @@ structure) and the adjacent-category corpus for the uniqueness test.
   segment, muscle) — i.e. movement science.
 - **Does not support:** that kinematic range-of-motion is a tissue mechanical or
   tactile *property* (a physical sign in the palpation sense).
+
+---
+
+## Pass 3 — provenance-resolving evidence objects
+
+### E-24 · Texture analysis of imaging: what radiologists need to know / radiomics tissue characterization (AJR; BJR review)
+- **Axis:** texture — internal structural heterogeneity (model-inferred).
+- **URL:** https://ajronline.org/doi/10.2214/AJR.18.20624 · review:
+  https://academic.oup.com/bjr/article/90/1070/20160665/7446097
+- **Use:** image **texture features** quantify the spatial arrangement of voxel
+  intensities to characterise **tissue heterogeneity** — a model-inferred
+  representation of internal structural "texture," distinct from surface roughness.
+- **Does not support:** that radiomic texture equals a tactile/surface property, or
+  that a texture feature is a diagnosis (it is an indirect, reproducibility-sensitive
+  descriptor).
+
+### E-25 · Intraocular pressure measurement / tonometry (review; Imbert-Fick principle)
+- **Axis:** pressure — intrinsic physiological pressure (state, elicited/model-inferred).
+- **URL:** https://www.sciencedirect.com/science/article/abs/pii/S0039625722000388 ·
+  clinical: https://my.clevelandclinic.org/health/diagnostics/22859-tonometry
+- **Use:** **intraocular pressure** is a genuine **intrinsic physiological pressure**
+  (a state of an internal compartment), reconstructed by tonometry through elicited
+  deformation and a model (P = F/A, Imbert-Fick). Establishes that "pressure" has an
+  intrinsic-state provenance distinct from sensor-interface contact pressure.
+- **Does not support:** that generic skin **contact/interface** pressure (E-09) is an
+  intrinsic bodily pressure; nor that tonometric IOP is assumption-free (it depends on
+  corneal properties).

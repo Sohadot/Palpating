@@ -250,3 +250,38 @@ Pass 3 must separate tissue strain from motion-proxy sensor deformation.
 
 Gate 1 will close by **reclassification and boundary definition**, not by deleting every
 non-intrinsic concept. No ontology/standard/protocol/engine/SEO approved.
+
+## DEC-015 — Gate 1 Pass 3: provenance architecture, reclassification, boundary; closure recommended
+**Status:** In progress — research only; **nothing approved**. **Gate 1 closure
+RECOMMENDED, pending user ratification.**
+
+Pass 3 (`research/gate-1/pass-3-provenance.md`) answered the governing question —
+*which forms of bodily physical meaning belong to Palpating, and under what
+provenance* — and reached these UNAPPROVED conclusions (input to Gate 2):
+
+- **Provenance architecture reshaped.** The seven Pass-2.1 modes conflated two axes;
+  Pass 3 replaces them with a **2-axis model: Nature** (State / Response / Dynamic /
+  Relational / Functional) **× Access** (Direct / Elicited / Model-inferred /
+  Comparative-derived), each concept carrying a mandatory Representation Gap.
+- **Full reclassification, nothing deleted.** "Texture" and "pressure" are
+  **multi-provenance** (texture → surface roughness / tactile-inclusion / internal
+  heterogeneity, E-21/E-22/E-04/E-05/E-24; pressure → intrinsic IOP-type *state*, E-25,
+  vs contact-interface, E-09). Modulus/stiffness distinct-and-related; strain must be
+  split into tissue strain vs motion-proxy; viscoelasticity supports a Dynamic nature.
+- **Boundary defined.** Palpating owns the *binding layer* (physical meaning →
+  provenance → elicitation/sensing → representation → interpretation → representation
+  gap); it does not own biomechanics, mechanobiology, imaging/elastography,
+  tactile/haptic sensing, wearables, or digital biomarkers. **Inclusion rule:**
+  defensible physical provenance (a Nature×Access pair with evidence + named gap).
+  **Exclusion rule:** *no* provenance — a device artifact, or pure performance/
+  kinematics with no physical binding. Derivedness/interaction/comparison/dynamics are
+  not grounds for exclusion (DEC-014).
+- **Cross-modal constraint sharpened:** a representation is bounded by its access
+  mode's assumptions; the mandatory gap grows model-inferred > elicited > direct.
+  Remains an Observed Cross-Modal Constraint (now with a mechanism), not a law.
+
+Evidence objects `E-24…E-25` added (radiomics texture; intraocular-pressure/tonometry).
+**Gate 1 is recommended for closure but not declared closed** — the Gate 1→Gate 2
+transition is a user decision. No ontology class, standard dimension, protocol rule,
+engine logic, or SEO page is approved. First recommended Gate 2 action: promote
+`E-01…E-25` into `SOURCE_REGISTER.md`.
