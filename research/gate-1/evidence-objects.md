@@ -142,3 +142,86 @@ reproducibility) · ⬤ emerging (phantom / small-scale / single-study).
 tissue palpation (stiffness quantification), **S-002** wearable mechanical &
 electrochemical sensors, **S-003** soft sensing & haptics, **S-004** multimodal
 wearable sensing, **S-005** MRE "in a nutshell" (see `SOURCE_REGISTER.md`).
+
+---
+
+## Pass 2 — primary & adjacent-category evidence objects
+
+Added for the adversarial falsification pass: primary/theoretical sources for
+structural claims (per the mandate to stop relying on narrative reviews for
+structure) and the adjacent-category corpus for the uniqueness test.
+
+### E-15 · Young's modulus and specific stiffness (Univ. of Cambridge, materials science)
+- **Axis:** concept — stiffness vs elasticity (primary/definitional).
+- **URL:** https://www-materials.eng.cam.ac.uk/mpsite/properties/non-IE/stiffness.html
+- **Use:** elastic modulus is an **intensive material** property; **stiffness** is
+  an **extensive structural** property (k = AE/L) depending on material *and*
+  geometry/boundary conditions — they are distinct.
+- **Does not support:** treating stiffness and elasticity/modulus as synonyms.
+
+### E-16 · Model-based elastography: survey of the inverse elasticity problem (IOP, Phys. Med. Biol.)
+- **Axis:** limitations — inverse problem / metrology (primary/theoretical).
+- **URL:** https://iopscience.iop.org/article/10.1088/0031-9155/57/3/R35/meta (PubMed 22222839)
+- **Use:** recovering shear/elastic modulus from elastography is an **ill-posed
+  inverse problem** with **no unique solution** from a single observation; it
+  requires priors/regularizers, and reconstruction quality depends on
+  displacement precision and boundary-condition assumptions.
+- **Does not support:** that a reconstructed modulus is an assumption-free
+  ground-truth property of the tissue.
+
+### E-17 · Muscle Tone Physiology and Abnormalities (PMC)
+- **Axis:** concept — tone vs tension (primary).
+- **URL:** https://pmc.ncbi.nlm.nih.gov/articles/PMC8071570/
+- **Use:** muscle tone = **passive viscoelasticity** + **active tonic
+  contraction**; "resistance to passive stretch" is a complex neural-mechanical
+  network, not a single mechanical scalar.
+- **Does not support:** equating measured "tone" with one mechanical property, or
+  merging it with "tension" (which includes active contractile force).
+
+### E-18 · Validity of the Myotonometer against passive-stretch/spasticity (Scientific Reports)
+- **Axis:** tone · modality myotonometry.
+- **URL:** https://www.nature.com/articles/srep44022
+- **Use:** myotonometric measures relate to the mechanical/viscoelastic state of
+  **superficial** muscle.
+- **Does not support:** capture of active tension or deep-muscle state.
+
+### E-19 · Cellular mechanotransduction in health and disease (Nature, Signal Transduct. Target. Ther.)
+- **Axis:** adjacent category — mechanobiology.
+- **URL:** https://www.nature.com/articles/s41392-023-01501-9
+- **Use:** mechanobiology/mechanotransduction concerns how **cells** convert
+  mechanical cues into biochemical signals (the biological level).
+- **Does not support:** that tissue-level mechanical *representation* (Palpating's
+  scope) is the same thing as cellular mechanotransduction.
+
+### E-20 · Definitions of digital biomarkers: systematic mapping (medRxiv)
+- **Axis:** adjacent category — digital biomarkers.
+- **URL:** https://www.medrxiv.org/content/10.1101/2023.09.01.23294897.full.pdf
+- **Use:** digital biomarkers are **validated sensor-derived measures tied to
+  clinical outcomes**; wearables are *tools*, and data become biomarkers only
+  after analytic + clinical validation.
+- **Does not support:** that raw physical-property sensing is a digital biomarker,
+  or that Palpating's map is an outcome-validation layer.
+
+### E-21 · Surface roughness for tribology — Ra/Rq/Rz, ISO 4287 (Tribonet)
+- **Axis:** texture · surface metrology.
+- **URL:** https://www.tribonet.org/news/surface-roughness-interpretation-tribology/
+- **Use:** surface texture is **metrologically defined** by roughness parameters
+  (ISO 4287); skin roughness reported Ra ≈ 0.03–0.45 μm.
+- **Does not support:** that a single parameter (Ra) defines texture — two surfaces
+  with equal Ra can behave differently.
+
+### E-22 · Surface textures modulate tactile perception (IOP, Surf. Topogr.)
+- **Axis:** texture · tactile.
+- **URL:** https://iopscience.iop.org/article/10.1088/2051-672X/ae2d7a
+- **Use:** tactile perception is a function of surface **micro-geometry** (feature
+  height, width, spacing).
+- **Does not support:** a clinical "tissue texture" sign beyond surface
+  micro-geometry.
+
+### E-23 · Estimating biomechanical time-series with wearable sensors (systematic review, PubMed)
+- **Axis:** adjacent category — biomechanics / kinematics.
+- **URL:** https://pubmed.ncbi.nlm.nih.gov/31795151/
+- **Use:** wearables estimate **biomechanical kinematics and kinetics** (joint,
+  segment, muscle) — i.e. movement science.
+- **Does not support:** that kinematic range-of-motion is a tissue mechanical or
+  tactile *property* (a physical sign in the palpation sense).

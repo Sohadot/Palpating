@@ -165,3 +165,46 @@ falsification completes against a deeper corpus.
 Evidence objects `E-01…E-14` gathered (with mandatory does-not-support boundaries);
 promotion into `SOURCE_REGISTER.md` deferred to a governance pass. Existing
 `S-001…S-005` remain valid.
+
+## DEC-013 — Gate 1 Pass 2: adversarial falsification; category defensible only if narrowed
+**Status:** In progress — research only; **nothing approved**. Gate 1 **not closed**.
+
+Pass 2 attacked Pass 1 rather than extending it (`research/gate-1/pass-2-falsification.md`).
+Adjudications (all UNAPPROVED, input to a future Gate 2):
+
+- **Stiffness ≠ elasticity.** Elastic modulus is a *material* (intensive) property;
+  stiffness is a *structural* (extensive) response; elastography reconstructs modulus
+  via an *ill-posed inverse problem under assumptions* (E-15, E-16). Split into two
+  entries joined by an edge; do not treat as synonyms.
+- **Tone ≠ tension.** Myotonometry supports only *superficial passive viscoelastic
+  tone* (E-17, E-18); "tension" (active force) is dropped as a candidate.
+- **Mobility/ROM excluded** from the atomic layer — it is *kinematics*, already owned
+  by biomechanics / digital biomarkers (E-20, E-23); admitting it would dissolve the
+  category boundary.
+- **Contact pressure excluded** — an *interaction-induced* quantity at the sensor
+  interface, not an intrinsic property. Rule set: a modality-induced quantity does not
+  become a physical sign because a device measures it.
+- **Texture narrowed** to *surface micro-geometry/roughness* (ISO 4287; E-21, E-22);
+  loose clinical "texture" dropped pending Pass 3.
+- **Resistance dropped** as atomic (it is the response relation defining stiffness/tone).
+- **Asymmetry** kept outside the atomic layer as a *comparison operator*.
+
+**Adjacent-category uniqueness test (mandate #8):** against biomechanics,
+mechanobiology, quantitative imaging/elastography, tactile/haptic sensing, wearable
+mechanical sensing, and digital biomarkers, Physical-Sign Intelligence is defensible
+**only in its narrow form** — as a *representation-integrity governance layer* over
+which *intrinsic* body properties can be faithfully represented and where the
+representation breaks. Broad ("any measurable physical state") it collapses into a
+renamed intersection of those fields. **The narrowing is what makes the category real.**
+
+**Methodological corrections:** the "DP strength" column is replaced with **Evidence
+status** (established / bounded-emerging / insufficient) so Digital Palpability is not
+turned into a back-door score (reaffirms DEC-002). Pass 1's "bounded proxy under stated
+assumptions" is reframed as an **Observed Cross-Modal Constraint**, now grounded in
+inverse-problem/metrology theory (E-16) but **not** declared a universal law.
+
+Primary/theoretical and adjacent-category evidence objects `E-15…E-23` added.
+**Gate 1 remains open**; Pass 3 must resolve texture, intrinsic-vs-induced pressure,
+a possible dynamic-response property, the modulus↔stiffness representation, and source
+promotion before any Gate 2 governance. No ontology/standard/protocol/engine/SEO
+approved in this pass.

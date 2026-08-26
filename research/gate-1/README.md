@@ -1,7 +1,12 @@
 # Gate 1 — Scientific Literature Research
 
-**Status:** Pass 1 (in progress) · **Governed by:** `ASSET_THESIS.md` §4–5,
-`SOURCE_GOVERNANCE.md`, `CLAIMS_GOVERNANCE.md`.
+**Status:** Pass 2 complete (adversarial falsification); Gate 1 **not yet closed**
+(Pass 3 pending). **Governed by:** `ASSET_THESIS.md` §4–5, `SOURCE_GOVERNANCE.md`,
+`CLAIMS_GOVERNANCE.md`.
+
+> **Gate 1 closes only when the category survives both positive evidence *and*
+> adjacent-category falsification.** Pass 2 result: it survives **only in its narrow
+> form** — see `pass-2-falsification.md`.
 
 Gate 1 is **research before classification**. Its purpose is to test, against the
 literature, whether **Physical-Sign Intelligence** is a defensible category and to
@@ -58,12 +63,27 @@ Every property is examined across these axes (the columns of the evidence matrix
 - `evidence-objects.md` — governed evidence objects `E-nn` (candidate sources with
   Use / Does-not-support / strength). Candidates for admission to
   `SOURCE_REGISTER.md` at a later governance pass.
-- `evidence-matrix.md` — the matrix, per-property Digital-Palpability assessment,
-  and **preliminary** falsification verdicts + candidate classes (UNAPPROVED).
+- `evidence-matrix.md` — the matrix (Pass 1, **revised by Pass 2**): property ×
+  modality × representation × context × limitations, with **Evidence status** (not a
+  score) per property.
+- `pass-2-falsification.md` — the adversarial pass: per-property adjudications,
+  the adjacent-category **uniqueness test**, the reframed cross-modal constraint,
+  and the **revised candidate structure** (UNAPPROVED).
 
-## Status & next pass
+## Result so far
 
-Pass 1 seeds the matrix with well-evidenced modalities across the five axes and
-records preliminary verdicts. Pass 2 will deepen weakly-covered cells (texture,
-pressure-as-bodily-state, dynamic response), add primary sources, and stress the
-category edges before any Gate 2 governance is proposed.
+Pass 1 established a well-evidenced landscape. Pass 2 attacked it and found the
+category **defensible only when narrowed**: elasticity/modulus, structural
+stiffness, deformation/strain, superficial viscoelastic tone, and surface
+roughness survive; mobility/ROM, contact pressure, resistance, and asymmetry are
+excluded from the atomic layer. The unique, unclaimed position is a
+**representation-integrity governance layer** over which intrinsic body properties
+can be faithfully represented and where the representation breaks.
+
+## Pass 3 (before Gate 1 can close)
+
+Resolve clinical "texture" vs roughness; primary source on intrinsic vs
+interaction-induced pressure; test for a genuine dynamic-response property; settle
+the modulus↔stiffness representation; consider elevating the Observed Cross-Modal
+Constraint after broader metrology review; promote admitted evidence objects into
+`SOURCE_REGISTER.md`. **No Gate 2 governance until Pass 3 closes Gate 1.**

@@ -1,29 +1,36 @@
 # Gate 1 — Evidence Matrix (Pass 1)
 
-**Status:** Pass 1 · **All candidate structure below is UNAPPROVED.** This matrix
-is research output; it does not constitute a Gate 2 ontology. Evidence-strength:
-⬤⬤⬤ strong · ⬤⬤ moderate · ⬤ emerging (see `evidence-objects.md`).
+**Status:** Pass 1, **revised by Pass 2.** **All candidate structure below is
+UNAPPROVED.** This matrix is research output; it does not constitute a Gate 2
+ontology.
 
-The matrix answers, per candidate property: by which **modality** it is sensed,
-what **digital representation** results, in what **spatial/temporal context**, and
-under what **limitations/uncertainty** — with sources. The rightmost column is the
-**Digital-Palpability (DP) strength**: how well-evidenced its computational
-legibility is *today*.
+> **Superseded groupings:** `pass-2-falsification.md` splits stiffness from
+> elasticity, narrows tone, and **excludes** mobility, contact pressure,
+> resistance, and asymmetry from the atomic-property layer. Read this matrix as the
+> Pass 1 landscape; **Part D of Pass 2 is the current candidate structure.**
+
+**Methodological correction (applied):** the rightmost column is **Evidence
+status**, not a "Digital-Palpability strength" — measuring *evidence*, not a score
+for the term. Labels: **[E] established representation** (multiple independent /
+clinical / systematic-review evidence) · **[B] bounded/emerging representation**
+(device- or study-level, some reproducibility) · **[I] insufficient evidence**
+(phantom / single-study / contested). This keeps Digital Palpability from becoming
+an undeclared metric (`DECISION_LOG.md` DEC-002).
 
 ---
 
 ## The matrix
 
-| Candidate property | Sensing modalities (evidence) | Digital representation | Spatial / temporal context | Key limitations / uncertainty | DP strength |
+| Candidate property | Sensing modalities (evidence) | Digital representation | Spatial / temporal context | Key limitations / uncertainty | Evidence status (Pass 2) |
 |---|---|---|---|---|---|
-| **Stiffness / elasticity** | SWE (E-01, E-02); MRE (E-03, S-005); robotic palpation / indentation (E-06, E-07, S-001); tactile (E-04) | scalar velocity/kPa; whole-organ elastogram map; elasticity coefficient | point → whole-organ field; static; in-vivo (SWE/MRE) and phantom (tactile) | operator/probe-force dependence (~1.5 N shifts repeatability, E-02); loading/motion bias (E-03); model dependence (E-07); scanner/frequency variance | **⬤⬤⬤** |
-| **Deformation / strain** | wearable strain sensing (E-08); skin-like sensors (E-09); wearable mechanical (S-002) | resistance/capacitance change → strain; waveform | surface, localized; dynamic, real-time | limited strain range/sensitivity; motion-specific; placement-dependent (E-08) | **⬤⬤⬤** |
-| **Mobility / range of motion** | IMU (E-13, E-14) | joint angle (deg); kinematic time series | joint-level; dynamic | validity drops with task complexity; rotations (shoulder/wrist) unreliable; inter-rater moderate-poor (E-14) | **⬤⬤⬤** |
-| **Tone / tension** | myotonometry (E-11, E-12) | oscillation waveform → viscoelastic params | localized muscle; quasi-static | lab-bound; not standardized for field; population/joint generalization unproven (E-11) | **⬤⬤** |
-| **Pressure** | skin-like pressure sensing (E-09); wearable mechanical (S-002) | pressure signal (kPa/mbar) | contact surface; dynamic | a captured contact-pressure signal ≠ a diagnostic "bodily pressure state" (E-09) | **⬤⬤** |
-| **Texture / surface state** | tactile imaging (E-05); tactile sensing (E-04) | tactile image → size/depth/modulus | localized inclusion; largely phantom | in-vivo validation sparse; "texture" only partially represented (inclusion, not full surface) (E-05) | **⬤** |
-| **Resistance** | (indirect: indentation force–deformation, E-07) | force–displacement curve | localized; static | no evidence of "resistance" as a distinct represented sign; likely derived from stiffness/indentation | **⬤ (derived?)** |
-| **Asymmetry** | (composite: bilateral IMU/imaging comparison) | derived differential | region/whole-body; static or dynamic | no direct evidence as an atomic physical sign; a comparison operation over other properties | **⬤ (composite?)** |
+| **Stiffness / elasticity** *(split in Pass 2)* | SWE (E-01, E-02); MRE (E-03, S-005); robotic palpation / indentation (E-06, E-07, S-001); tactile (E-04) | scalar velocity/kPa; whole-organ elastogram map; elasticity coefficient | point → whole-organ field; static; in-vivo (SWE/MRE) and phantom (tactile) | operator/probe-force dependence (~1.5 N shifts repeatability, E-02); loading/motion bias (E-03); **ill-posed inverse problem, non-unique, assumption-laden** (E-16); model dependence (E-07) | **[E]** established (assumption-bounded) — but **modulus ≠ stiffness**; split into two entries + edge |
+| **Deformation / strain** | wearable strain sensing (E-08); skin-like sensors (E-09); wearable mechanical (S-002) | resistance/capacitance change → strain; waveform | surface, localized; dynamic, real-time | limited strain range/sensitivity; motion-specific; placement-dependent (E-08) | **[E]** established |
+| **Mobility / range of motion** | IMU (E-13, E-14, E-23) | joint angle (deg); kinematic time series | joint-level; dynamic | rotations unreliable; inter-rater moderate-poor (E-14); **it is kinematics, owned by biomechanics/digital biomarkers** (E-20, E-23) | **[I] as a physical sign** — out of scope; [E] only *as kinematics* (Pass 2 #3) |
+| **Tone / tension** *(narrowed in Pass 2)* | myotonometry (E-11, E-12, E-18) | oscillation waveform → viscoelastic params | superficial muscle; quasi-static | lab-bound; superficial only; **tone ≠ tension** (E-17); active force not captured (E-18) | **[B]** for *superficial passive viscoelastic tone*; "tension" **dropped** |
+| **Pressure** | skin-like pressure sensing (E-09); wearable mechanical (S-002) | pressure signal (kPa/mbar) | contact surface; dynamic | **interaction-induced at the sensor interface, not an intrinsic property** (Pass 2 #4) | **[I] as an intrinsic sign** — generic contact pressure excluded |
+| **Texture / surface state** *(narrowed in Pass 2)* | tactile imaging (E-05); tactile sensing (E-04); roughness metrology (E-21, E-22) | tactile image → size/depth/modulus; roughness Ra/Rq/Rz | localized; phantom (imaging) / micro-scale (roughness) | Ra alone insufficient (E-21); clinical "texture" ≠ roughness (E-22) | **[B]** for *surface micro-geometry/roughness*; **[I]** for clinical "texture" |
+| **Resistance** | (definition of stiffness / tone, E-15, E-17) | — | — | "resistance to deformation" = stiffness; "resistance to stretch" = tone | **relation, not atomic** — dropped (Pass 2 #6) |
+| **Asymmetry** | (bilateral/temporal comparison of other properties) | derived differential | region/whole-body | no evidence as an atomic sign | **operator, not property** — kept outside atomic layer (Pass 2 #7) |
 
 ---
 
@@ -60,7 +67,14 @@ to the person's health (`ASSET_INTELLIGENCE_FACTORY_PLAN.md` §4;
 
 ---
 
-## Preliminary falsification verdicts (UNAPPROVED — for Gate 2)
+## Preliminary falsification verdicts (UNAPPROVED)
+
+> **Superseded by Pass 2.** The verdicts below are the Pass 1 reading. Pass 2
+> (`pass-2-falsification.md`, Parts B and D) is the **current** position: the
+> category is defensible **only in its narrow form**, after excluding mobility,
+> contact pressure, resistance, and asymmetry from the atomic layer.
+
+### Pass 1 verdicts (retained for continuity)
 
 - **Q1 — Category defensibility: PROVISIONALLY DEFENSIBLE.** For the core
   (stiffness/elasticity, deformation/strain, mobility, tone), a *real, converging
