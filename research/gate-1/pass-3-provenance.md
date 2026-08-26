@@ -10,6 +10,20 @@ Governed by `ASSET_THESIS.md`, `DECISION_LOG.md` DEC-014 (Pass 2.1 correction).
 Gate 1 closes by **reclassification and boundary definition**, not by deleting
 every concept that is not an intrinsic material property.
 
+> **Ratification note (DEC-016).** Gate 1 is closed on this pass, with three binding
+> reservations that this document is corrected to honour:
+> 1. **Nature × Access is Gate-2 *input*, not a final ontology.** The five Natures
+>    (esp. Relational, Functional) are candidates; they may not be at the same
+>    ontological level — Gate 2 decides.
+> 2. **No ordinal gap hierarchy is ratified.** "model-inferred > elicited > direct"
+>    is withdrawn; a badly-placed *direct* sensor can have a larger gap than a
+>    well-constrained *model-inferred* one. What is ratified: *access mode determines
+>    the kinds of assumptions and uncertainty that must be disclosed* → a **gap-type
+>    taxonomy**, not a magnitude ranking (Part 4, corrected).
+> 3. **No universal ownership claim.** "No neighbour owns it" is softened to *"no
+>    equivalent governed binding layer was identified in the adjacent corpus tested
+>    during Gate 1"* (a research finding, not a universal claim).
+
 ---
 
 ## Part 1 — Testing the provenance architecture
@@ -83,12 +97,14 @@ Two structural results:
 
 ## Part 3 — Boundary definition (what Palpating owns)
 
-**Palpating owns the binding layer, not the adjacent fields.** The chain
+**Palpating's intended position is to own the binding layer, not the adjacent
+fields.** The chain
 
 > physical meaning → provenance → elicitation/sensing → representation →
 > interpretation → representation gap
 
-is owned by no neighbour:
+had **no equivalent governed instance identified in the adjacent corpus tested
+during Gate 1** (a research finding, not a universal "nobody owns it" claim — DEC-016):
 
 | Field | Owns | Does *not* own |
 |-------|------|----------------|
@@ -116,19 +132,23 @@ texture — *in*, decomposed.
 
 ---
 
-## Part 4 — The Observed Cross-Modal Constraint, restated
+## Part 4 — The Observed Cross-Modal Constraint, restated (corrected per DEC-016)
 
 The 2-axis model sharpens Pass 1's finding. Every **Model-inferred** and most
 **Elicited** accesses carry reconstruction assumptions (inverse-problem
 ill-posedness, E-16; Imbert-Fick corneal assumptions, E-25; radiomic
-reproducibility, E-24). Restated:
+reproducibility, E-24). Ratified principle (magnitude ordering **withdrawn**):
 
-> **A physical-meaning representation is bounded by the assumptions of its access
-> mode; the weaker-constrained the access (model-inferred > elicited > direct), the
-> larger the mandatory Representation Gap.**
+> **The access mode determines the *kinds* of assumptions and uncertainty a
+> representation must disclose. The Representation Gap is classified by *type*, not
+> ranked by magnitude** — a well-constrained model-inferred representation can have a
+> smaller gap than a badly-placed direct one.
 
-Still an **Observed Cross-Modal Constraint**, now with a *mechanism* (it scales with
-access mode), not a universal law. Candidate governing principle for Gate 2.
+This points to a **gap-type taxonomy** (a Gate 2D deliverable), candidate types:
+transduction gap · interaction gap · reconstruction gap · model gap · spatial-sampling
+gap · temporal gap · calibration gap · comparator/baseline gap. Still an **Observed
+Cross-Modal Constraint** (with a mechanism — disclosure obligations follow access
+mode), not a universal law.
 
 ---
 
@@ -139,10 +159,10 @@ falsification), under the corrected non-narrow interpretation:
 
 - **Positive evidence:** the core natures (State, Response, Dynamic, Relational,
   Functional) each have at least one evidenced, representable concept. **Pass.**
-- **Adjacent-category falsification:** the boundary (Part 3) is crisp — Palpating
-  owns the provenance/representation-integrity binding layer, which no neighbour
-  owns; breadth is bounded by the provenance requirement, not by intrinsic-tissue
-  restriction. **Pass.**
+- **Adjacent-category falsification:** the boundary (Part 3) is crisp — Palpating's
+  position is the provenance/representation-integrity binding layer, for which **no
+  equivalent was identified in the tested corpus** (DEC-016); breadth is bounded by the
+  provenance requirement, not by intrinsic-tissue restriction. **Pass.**
 - **Category is broad-but-bounded, and defensible.** It is neither a loose umbrella
   (the provenance rule bounds it) nor a narrow tissue-mechanics branch (Pass 2.1).
 

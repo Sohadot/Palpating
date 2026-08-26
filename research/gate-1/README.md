@@ -1,8 +1,10 @@
 # Gate 1 — Scientific Literature Research
 
-**Status:** Pass 3 complete (provenance & boundary). **Gate 1 closure RECOMMENDED —
-pending user ratification** (a gate transition is not made unilaterally).
-**Governed by:** `ASSET_THESIS.md` §4–5, `SOURCE_GOVERNANCE.md`, `CLAIMS_GOVERNANCE.md`.
+**Status:** **Gate 1 CLOSED** (ratified, `DECISION_LOG.md` DEC-016) with three binding
+reservations. Category defensibility is established; final ontology correctness is
+**not**. Work continues in **Gate 2**, beginning at **Gate 2A — Source Admission**
+(`research/gate-2/`). **Governed by:** `ASSET_THESIS.md` §4–5, `SOURCE_GOVERNANCE.md`,
+`CLAIMS_GOVERNANCE.md`.
 
 > **Gate 1 closes only when the category survives both positive evidence *and*
 > adjacent-category falsification.** Pass 2 narrowed the **atomic-property layer**;

@@ -285,3 +285,73 @@ Evidence objects `E-24…E-25` added (radiomics texture; intraocular-pressure/to
 transition is a user decision. No ontology class, standard dimension, protocol rule,
 engine logic, or SEO page is approved. First recommended Gate 2 action: promote
 `E-01…E-25` into `SOURCE_REGISTER.md`.
+
+---
+
+# GATE 2 — Category Architecture
+
+## DEC-016 — Gate 1 closed; Gate 2 authorized (with three reservations)
+**Status:** Binding. **Gate 1 is CLOSED. Gate 2 is authorized.**
+
+Gate 1 is closed by user ratification. Its question was *"is there a defensible
+category worth building?"* — answered **yes**:
+1. a real evidenced substrate (not a linguistic story);
+2. survival of adjacent-category falsification (biomechanics, mechanobiology,
+   elastography, haptics, wearables, digital biomarkers) **without** killing category
+   breadth;
+3. a defensible boundary (defensible physical provenance required);
+4. escape from the Pass-2 trap: **non-atomic ≠ non-Palpating** (DEC-014).
+
+> **Gate 1 establishes category defensibility, not final ontology correctness.**
+
+**Survived as UNAPPROVED input to Gate 2:** Physical Meaning Provenance; the
+Nature × Access candidate architecture; concept × context classification; the
+Representation Gap requirement; the broad-but-bounded category thesis; inclusion via
+defensible physical provenance; the adjacent-field boundary; the multi-provenance
+reading of terms such as pressure and texture.
+
+**NOT approved (explicitly open for Gate 2):** final Nature classes; Access as ontology
+axis vs protocol metadata; the Functional admission rule; Dynamic as an independent
+class; **any ordinal gap hierarchy**; the final Standard; the final Protocol; the final
+Engine mapping.
+
+### Three binding reservations (correct Pass 3 wording; applied in `pass-3-provenance.md`)
+- **R1 — Nature × Access is input, not sacred.** State/Response/Dynamic/Relational/
+  Functional are candidates; Relational and Functional may not sit at the same
+  ontological level as State/Response. Gate 2 decides.
+- **R2 — No ordinal Representation-Gap hierarchy.** "model-inferred > elicited > direct"
+  is **withdrawn**. Ratified instead: *access mode determines the kinds of assumptions
+  and uncertainty that must be disclosed.* Gate 2 builds a **gap-type taxonomy**
+  (transduction / interaction / reconstruction / model / spatial-sampling / temporal /
+  calibration / comparator-baseline gap), not a magnitude ranking.
+- **R3 — No universal ownership claim.** Replace "nobody owns this layer" with *"no
+  equivalent governed binding layer was identified in the adjacent corpus tested during
+  Gate 1"* (claims-governance discipline).
+
+### Conceptual spine (now four layers)
+1. **From vital signs to physical signs** — why the category exists.
+2. **Digital Palpability** — what can become computationally legible.
+3. **Physical Meaning Provenance** — where that meaning comes from.
+4. **Representation Gap** — what did not survive the translation.
+
+### Gate 2 sub-sequence (ontology does NOT start first)
+- **2A — Source Admission** (a gate, not bulk promotion; see DEC-017).
+- **2B — Admission Rule** (what makes a concept belong to Palpating).
+- **2C — Physical Meaning Provenance Architecture** (are the Nature classes right;
+  multi-provenance handling).
+- **2D — Representation Gap Taxonomy** (a sovereign element).
+- **2E — Formal Classification Table** (only after the rules are stable).
+- **2F — Standard Candidate** · **2G — Protocol Candidate** · then Engine.
+
+## DEC-017 — Gate 2A: Source Admission Gate (no bulk promotion)
+**Status:** In progress. Adjudication recorded; register promotion executes verdicts.
+
+Rejecting Pass 3's "promote `E-01…E-25` in bulk." Sources are not equal in authority.
+The first Gate 2 operation is a **Source Admission Gate** (`research/gate-2/source-admission.md`)
+that gives every source a verdict — **ADMIT–canonical / ADMIT–supporting / RETAIN–research-only
+/ REJECT–supersede** — plus source type, authority class (primary / standard / systematic
+review / review / secondary), claim directness, admitted claim IDs, prohibited
+extrapolations, durable locator, verification date, and supersession relation. Only
+ADMIT verdicts may bear public reference claims; RETAIN stays research-only; REJECT names
+its replacement. `SOURCE_REGISTER.md` thereby becomes a governed **asset layer**, not a
+list. No ontology/standard/protocol/engine/SEO approved.
