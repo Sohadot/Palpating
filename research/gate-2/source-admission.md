@@ -1,8 +1,9 @@
 # Gate 2A — Source Admission
 
-**Status:** Adjudication complete; **register promotion executes these verdicts**
-(a separate, reviewable step). Governed by `SOURCE_GOVERNANCE.md`, `CLAIMS_GOVERNANCE.md`,
-`DECISION_LOG.md` DEC-017.
+**Status:** **Gate 2A CLOSED** — register rewritten to `SOURCE_REGISTER.md` v0.2 (asset
+layer). Governed by `SOURCE_GOVERNANCE.md`, `CLAIMS_GOVERNANCE.md`, `DECISION_LOG.md`
+DEC-017/DEC-018. See **Ratified revisions** at the foot of this file for the changes the
+user review applied to the initial adjudication table below.
 
 Rejecting bulk promotion. Every source earns a place by verdict. A source may bear a
 **public reference claim only if ADMIT**; RETAIN stays research-only; REJECT names its
@@ -78,8 +79,47 @@ Verification date for all rows: **2026-08-26** (Gate 1–2A research window).
 - **Preprint watch:** E-20 (digital-biomarker definitions) — supporting only until a
   peer-reviewed equivalent is admitted.
 
-## Execution (next, reviewable step)
-Rewrite `SOURCE_REGISTER.md` to the schema above, promoting only ADMIT verdicts, moving
-RETAIN/REJECT to a research/superseded appendix, and adding the ISO 4287 acquisition as
-an open task. **No public reference page may cite a source until this register rewrite
-lands.** No ontology/standard/protocol/engine/SEO approved by this step.
+## Execution (done)
+`SOURCE_REGISTER.md` has been rewritten to the governed asset-layer schema (v0.2),
+promoting only ADMIT verdicts with fresh `S-nnn` IDs and `origin_evidence_object`
+provenance. See the **Ratified revisions** below for the changes applied.
+
+---
+
+## Ratified revisions (Gate 2A close, DEC-018)
+
+The initial adjudication above is **superseded on these rows** by user review. "13
+canonical" was **not** treated as a target; the register is authoritative.
+
+- **E-15 → supporting.** The Cambridge page is reference/educational, not a
+  peer-reviewed/standard mechanics source. Recorded as **S-026 (supporting)**; a
+  governing source for the modulus-vs-structural-stiffness claim (**CL-13**) is an
+  **open acquisition task** (register Appendix B). No canonical claim is issued for it.
+- **E-14 → supporting.** Duplicative governing scope with E-13 for IMU/ROM. **S-010
+  (E-13)** governs the kinematic joint-angle claim; **S-025 (E-14)** is supporting.
+- **E-11 → canonical with a narrowed claim.** Now **S-009**, claim reworded to
+  "superficial muscle mechanical/viscoelastic parameters with reported reliability" —
+  it does **not** canonize "tone" as a single mechanical quantity (Gate 1 showed the
+  term is overloaded).
+- **E-24 not admitted as a composite.** Split into: **S-014 = IBSI (Zwanenburg et al.,
+  *Radiology* 2020)** — the consensus **standard**, now the governing source for the
+  texture-as-heterogeneity claim (CL-09); **S-031** (AJR review) and **S-032** (BJR
+  review) supporting.
+- **E-25 not admitted as a composite.** Split into: **S-015 = "Intraocular pressure
+  measurement: a review" (Survey of Ophthalmology)** governing (CL-10); **S-033**
+  (Cleveland Clinic explainer) supporting/secondary.
+- **E-21 rejected — superseded resolved.** The authoritative roughness reference was
+  obtained: **S-016 = ISO 21920-2:2021** (international **standard**, replacing ISO
+  4287), now governing CL-11. E-21 stays rejected (research pointer only).
+- **S-003, S-006 (E-02), S-007 (E-03), S-008 (E-10), S-011 (E-16), S-012 (E-17),
+  S-013 (E-19)** confirmed **canonical** for their narrow claims.
+
+**ID discipline applied:** one bibliographic work = one record; research `E-nn` IDs are
+not public-authority IDs; every admitted work has a fresh `S-nnn` and an
+`origin_evidence_object` field; every canonical claim `CL-nn` resolves to exactly one
+governing record (register Claim Index).
+
+**Gate 2A is CLOSED:** the register is internally consistent, composites are split, and
+each canonical claim resolves to an identifiable bibliographic record. No public
+reference page may cite a source outside this governed register. No
+ontology/standard/protocol/engine/SEO approved. **Next: Gate 2B — Admission Rule.**

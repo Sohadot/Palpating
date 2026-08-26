@@ -355,3 +355,36 @@ extrapolations, durable locator, verification date, and supersession relation. O
 ADMIT verdicts may bear public reference claims; RETAIN stays research-only; REJECT names
 its replacement. `SOURCE_REGISTER.md` thereby becomes a governed **asset layer**, not a
 list. No ontology/standard/protocol/engine/SEO approved.
+
+## DEC-018 — Gate 2A closed: source register rewritten as a governed asset layer
+**Status:** Binding. **Gate 2A is CLOSED.** No ontology/standard/protocol/engine/SEO approved.
+
+User review of the 2A adjudication applied these changes (the "13 canonical" figure was
+**not** a target — best-available governing source per claim was the test):
+
+- **E-15 → supporting** (`S-026`): Cambridge page is reference/educational, not a
+  peer-reviewed/standard mechanics source. Governing source for modulus-vs-structural-
+  stiffness (**CL-13**) is an **open acquisition task**; no canonical claim issued.
+- **E-14 → supporting** (`S-025`): duplicative governing scope with `S-010` (E-13),
+  which governs the kinematic joint-angle claim (CL-05).
+- **E-11 → canonical, narrowed** (`S-009`): claim reworded to "superficial muscle
+  mechanical/viscoelastic parameters with reported reliability"; does **not** canonize
+  "tone" as a single mechanical quantity.
+- **E-24 split** (one work = one record): `S-014` = **IBSI (Zwanenburg et al.,
+  *Radiology* 2020)**, a consensus **standard**, governs texture-as-heterogeneity
+  (CL-09); AJR/BJR reviews `S-031`/`S-032` supporting.
+- **E-25 split:** `S-015` = *Intraocular pressure measurement: a review* (Survey of
+  Ophthalmology) governs CL-10; Cleveland explainer `S-033` supporting/secondary.
+- **E-21 rejected; supersession resolved:** `S-016` = **ISO 21920-2:2021** (standard,
+  replaces ISO 4287) governs CL-11.
+- Confirmed canonical for narrow claims: `S-003`, `S-006`, `S-007`, `S-008`, `S-011`,
+  `S-012`, `S-013`.
+
+**ID discipline:** one bibliographic work = one record; fresh `S-nnn` per admitted work;
+research `E-nn` IDs are not public-authority IDs; each record keeps `origin_evidence_object`;
+each canonical claim `CL-nn` resolves to exactly one governing record (register Claim
+Index). Two standards now govern (IBSI, ISO 21920-2), raising authority.
+
+`SOURCE_REGISTER.md` is now **v0.2 (Governed Asset Layer)**. No public reference page may
+cite a source outside it. **Next: Gate 2B — Admission Rule**, to be built on this settled
+corpus.
