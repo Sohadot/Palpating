@@ -388,3 +388,37 @@ Index). Two standards now govern (IBSI, ISO 21920-2), raising authority.
 `SOURCE_REGISTER.md` is now **v0.2 (Governed Asset Layer)**. No public reference page may
 cite a source outside it. **Next: Gate 2B — Admission Rule**, to be built on this settled
 corpus.
+
+## DEC-019 — Gate 2B: the Admission Rule (concept × context; 7 gates; deterministic)
+**Status:** Candidate — recommended for closure, **pending user ratification**. On
+ratification it promotes into `CLASSIFICATION_ARCHITECTURE.md` as binding.
+`research/gate-2/admission-rule.md`.
+
+The Admission Rule is built **beneath the ontology** so it survives any Gate-2C
+restructuring of the `Nature × Access` classes; it tests *admissibility*, not class
+membership.
+
+- **Unit of admission = `concept × context`, never word-level** (binding rule). A word
+  is decomposed into concept×context pairs, each tested alone.
+- **Seven gates:** G1 physical referent · G2 context specificity · G3 defensible
+  provenance · G4 admitted evidentiary support · G5 representation path · G6 named
+  Representation Gap · G7 boundary integrity.
+- **Deterministic verdicts (no scores): ADMIT / CONDITIONAL / EXCLUDE**, by an ordered
+  procedure. **EXCLUDE is reachable only via** G1 (no referent / device artifact), G3
+  (no defensible provenance), or a G7 unbound-performance/kinematics breach. G2 failure
+  routes to **DECOMPOSE**. Per DEC-014, being derived/comparative/interaction-dependent/
+  dynamic/non-atomic is **never** an EXCLUDE reason.
+- **Validated against 14 edge cases** (modulus, structural stiffness, tissue strain,
+  motion-proxy sensor deformation, intraocular vs contact pressure, resistance, asymmetry,
+  ROM, superficial muscle mechanical state, clinical "tone", surface roughness, radiomic
+  texture, tactile inclusion response), each with context/referent/provenance/evidence
+  IDs/representation path/gap/verdict/reason. **Contact pressure** and **ROM** each yield
+  two verdicts by context; **clinical "tone"** decomposes — the concept×context rule
+  working. Result: 7 ADMIT, 5 CONDITIONAL, 3 EXCLUDE (by context), 1 DECOMPOSE.
+- **Reproducibility** secured by the ordered gates + a closed EXCLUDE list + a G7
+  tie-breaker ("if the physical binding cannot be *named*, functional-context =
+  CONDITIONAL, pure-performance = EXCLUDE"). The one residual judgment point (operational
+  definition of Functional "binding") is a Gate-2C item.
+
+No ontology class, Standard dimension, Protocol rule, Engine logic, or SEO page approved.
+**Next: Gate 2C — Provenance Architecture.**
